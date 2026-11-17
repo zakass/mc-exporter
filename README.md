@@ -1,6 +1,6 @@
 # mc-exporter
 
-A lightweight, zero-dependency Python Prometheus exporter and persistent activity tracker for containerized Minecraft Java Edition servers.
+A lightweight, zero-dependency Python metrics exporter and persistent activity tracker for containerized Minecraft Java Edition servers. Compatible with any text exposition format system (like Prometheus).
 
 ## Features
 
